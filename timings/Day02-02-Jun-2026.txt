@@ -1,0 +1,18 @@
+Today Session What I have learned.
+--for 2 hrs,I have attended full session of Neeraj for Linux basics.
+--In that session I have learned various commands like cd,pwd,mkdir,ls commands as well as commands like touch then we have learned to change the permissions by ushing chmod for Owner then to change group permissions etc.
+--We have lot of Linux basics commands in detail in this session, I have provided the 2 minutes Intro session on the evening batch time.
+--3 hrs I have watched the recording session of Linux basics of May batch.
+--9 hrs I have Worked for my Job.
+-- 1 hrs I have given for the coding practice.
+-- 1 hr I have done exercise and walking.
+
+
+
+Tomorrow what Task I will do:
+
+-- So tomorrow in the early morning 6 AM I will be joining the neeraj session in which he will cover the advanced different commands in linux means we will go step by step to depth of Linux foundation.
+-- 9 hrs I have to perform my job duties.
+-- 1 hr will be giving to coding practice.
+-- 3 hrs I have to re-watch the previous month video and achieve perfection on the concepts.
+-- 1 hr I have to give to exercise and Walking.
