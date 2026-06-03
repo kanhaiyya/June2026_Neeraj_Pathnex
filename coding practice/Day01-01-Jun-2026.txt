@@ -1,3 +1,6 @@
+
+L1_practice Day 01
+
 #Day 01 - basics
 
 ## Ansible task - Install nginx on Pathnex Server.
@@ -94,3 +97,35 @@ git-checkout:
     - git clone https://github.com/Pathnex/sample-java-app.git
     - cd sample-java-app
     - ls -la
+
+
+
+
+
+
+
+
+L2_practice Day 01
+
+
+- name: Install nginx on Pathnex server
+  hosts: all
+  become: yes
+
+
+  tasks:
+    - name: Install nginx
+      yum:
+        name: nginx
+        state: present
+
+
+
+
+docker --version
+docker run ubuntu echo "Hello pathnex"
+
+
+FROM ubuntu:22.04
+CMD ["echo", "Hello Pathnex"]
+
